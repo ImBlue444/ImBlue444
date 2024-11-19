@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Dennis!
 
 ## Who am I?
-I'm a **frontend developer** with solid **backend** skills, passionate about building modern, scalable, and secure web applications. I focus on creating fast, responsive, and user-friendly experiences that shine across all devices.
+I'm a **frontend developer** with some **backend** skills, passionate about building modern, scalable, and secure web applications. I focus on creating fast, responsive, and user-friendly experiences that shine across all devices.
 
 ## 🔧 My Tech Stack:
 ### Frontend:
